@@ -7,3 +7,4 @@ function useDocumentTitle(pageTitle) {
 }
 
 export default useDocumentTitle;
+
